@@ -5,7 +5,7 @@
 I'm passionate about secure development, problem-solving, and building platforms that create real-world impact.
 
 💻 **Tech interests:**  
-Cybersecurity ▸ Web Development ▸ Java ▸ Mobile Apps ▸ AI/ML ▸ Data Structures
+Cybersecurity ▸ Web Development ▸ Java ▸ Android Development ▸ AI/ML ▸ Data Structures
 
 🚀 **Projects:**  
 - FarmEasy – Farmer-to-Consumer marketplace  
